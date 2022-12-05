@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://assets-blog.hostgator.mx/wp-content/uploads/2020/07/Lenguaje-de-programacion-Golang-o-Go.gif" align="center" style="width: 100%" />
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="center" style="width: 80%" />
 </div>  
   
 
@@ -104,7 +104,7 @@
 
 <br/>  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=koz34&cover_image=true&theme=default&show_offline=false&background_color=121212)
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=koz34&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
 <br />
 
 ----
