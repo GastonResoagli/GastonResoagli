@@ -102,7 +102,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GastonResoagli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
+
+----
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=koz34&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
 <br />
