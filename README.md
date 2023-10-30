@@ -8,7 +8,7 @@
 - 🚀 soy Full Stack Developer  con fuerte inclinación hacia la parte del Front-End. tengo Experiencia trabajando en equipo y con diversas tecnologías .  
   
 
-- 📖 Actualmente termine el bootcamp de Soy Henry y me encuentro en 4to año de Licenciatura en Sistemas en la Universidad Nacional del Nordeste.  
+- 📖 Soy estudiante la carrera de Licenciatura en Sistemas de la informacion en la Universidad Nacional del Nordeste.  
   
 
 - Espero que les guste mi perfil y no duden en contactarme!!  
